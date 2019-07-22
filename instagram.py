@@ -1,4 +1,4 @@
-# Date: 12/29/2018
+# Date: 07/21/2019
 # Author: Mohamed
 # Description: Instagram bruter
 
@@ -18,7 +18,7 @@ class Engine(object):
         self.resume = False
         self.is_alive = True
         self.threads = threads
-        self.username = username
+        self.username = darealbasiicspam
         self.passlist_path = passlist_path
         self.display = Display(is_color=is_color)
 
